@@ -28,7 +28,7 @@ This Weather Application is a simple yet elegant tool for checking current weath
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/your-username/Weather-Application.git
    ```
 
 2. **Navigate to the Project Folder**:
