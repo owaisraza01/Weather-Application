@@ -1,5 +1,3 @@
-## GitHub Repository Description for Weather App
-
 ### 🌦️ Weather Application
 
 This Weather Application is a simple yet elegant tool for checking current weather details of any city worldwide. Built using **HTML**, **Bootstrap**, and **JavaScript**, this app fetches real-time weather data from the [OpenWeather API](https://openweathermap.org/) and displays it in a user-friendly interface.
