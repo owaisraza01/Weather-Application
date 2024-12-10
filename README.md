@@ -45,8 +45,8 @@ This Weather Application is a simple yet elegant tool for checking current weath
 
 ---
 
-### 🖼️ Screenshots
-**[Add screenshots here to showcase the app]**
+### 🖼️ Preview
+**https://roaring-florentine-8d83f6.netlify.app/**
 
 ---
 
